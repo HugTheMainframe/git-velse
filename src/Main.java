@@ -7,5 +7,6 @@ public class Main {
 
         atlas.eat("poop..");
         crazy.eat("fishhyy");
+
     }
 }
