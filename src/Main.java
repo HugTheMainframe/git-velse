@@ -8,5 +8,7 @@ public class Main {
         atlas.eat("poop..");
         crazy.eat("fishhyy");
 
+        atlas.showMood(true);
+        crazy.showMood(false);
     }
 }
