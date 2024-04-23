@@ -4,5 +4,8 @@ public class Main {
         atlas.makeSound();
         Cat crazy = new Cat();
         crazy.makeSound();
+
+        atlas.eat("poop..");
+        crazy.eat("fishhyy");
     }
 }
